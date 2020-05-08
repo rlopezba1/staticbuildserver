@@ -7493,4 +7493,8 @@ a.text-dark:focus, a.text-dark:hover {
 /*# sourceMappingURL=bootstrap.min.css.map */
 h1 {
   text-align: center;
+<<<<<<< HEAD
   color: yellow; }
+=======
+  color: red; }
+>>>>>>> parent of 73452da... new css
